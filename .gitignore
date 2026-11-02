@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### CSVs ###
+*.csv
+!src/test/resources/csv/*.csv
+
+CLAUDE.md
+PROGRESS.md
